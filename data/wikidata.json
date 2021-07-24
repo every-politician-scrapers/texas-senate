@@ -1,526 +1,536 @@
-[
-  {
-    "name": "Angela Paxton",
-    "gender": "female",
-    "identifiers": [
-      {
-        "identifier": "Q60639272",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Beverly Powell",
-    "gender": "female",
-    "birth_date": "1951",
-    "identifiers": [
-      {
-        "identifier": "Q60524427",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Bob Hall",
-    "gender": "male",
-    "birth_date": "1942-03-05",
-    "identifiers": [
-      {
-        "identifier": "Q18619029",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Borris Miles",
-    "gender": "male",
-    "birth_date": "1965-10-29",
-    "identifiers": [
-      {
-        "identifier": "Q4946593",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Brandon Creighton",
-    "gender": "male",
-    "birth_date": "1970-08-05",
-    "identifiers": [
-      {
-        "identifier": "Q16208257",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Brian Birdwell",
-    "gender": "male",
-    "birth_date": "1961-11-03",
-    "identifiers": [
-      {
-        "identifier": "Q21042340",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Bryan Hughes",
-    "gender": "male",
-    "birth_date": "1969-07-21",
-    "identifiers": [
-      {
-        "identifier": "Q4980170",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Carol Alvarado",
-    "gender": "female",
-    "birth_date": "1967-10-26",
-    "identifiers": [
-      {
-        "identifier": "Q5044227",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Charles Perry",
-    "gender": "male",
-    "birth_date": "1962-03-09",
-    "identifiers": [
-      {
-        "identifier": "Q5081599",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Charles Schwertner",
-    "gender": "male",
-    "birth_date": "1970-05-29",
-    "identifiers": [
-      {
-        "identifier": "Q16213055",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "César Blanco",
-    "gender": "male",
-    "birth_date": "1976-04-23",
-    "identifiers": [
-      {
-        "identifier": "Q28086314",
-        "scheme": "wikidata"
-      }
-    ],
-    "other_names": [
-      {
-        "name": "Cesar Blanco",
-        "source": "wikidata.org"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Dawn Buckingham",
-    "gender": "female",
-    "birth_date": "1960s",
-    "identifiers": [
-      {
-        "identifier": "Q28370262",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Donna Campbell",
-    "gender": "female",
-    "birth_date": "1954-09-17",
-    "identifiers": [
-      {
-        "identifier": "Q4793462",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Drew Springer",
-    "gender": "male",
-    "birth_date": "1966-10-27",
-    "identifiers": [
-      {
-        "identifier": "Q16196712",
-        "scheme": "wikidata"
-      }
-    ],
-    "other_names": [
-      {
-        "name": "Drew Springer, Jr.",
-        "source": "wikidata.org"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Eddie Lucio, Jr.",
-    "gender": "male",
-    "birth_date": "1946-01-20",
-    "identifiers": [
-      {
-        "identifier": "Q5336251",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Jane Nelson",
-    "gender": "female",
-    "birth_date": "1951-10-05",
-    "identifiers": [
-      {
-        "identifier": "Q6152586",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Joan Huffman",
-    "gender": "female",
-    "birth_date": "1956-08-17",
-    "identifiers": [
-      {
-        "identifier": "Q6205149",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "John Whitmire",
-    "gender": "male",
-    "birth_date": "1949-08-13",
-    "identifiers": [
-      {
-        "identifier": "Q6263891",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "José Menéndez",
-    "gender": "male",
-    "birth_date": "1969-03-11",
-    "identifiers": [
-      {
-        "identifier": "Q6279483",
-        "scheme": "wikidata"
-      }
-    ],
-    "other_names": [
-      {
-        "name": "Jose Menendez",
-        "source": "wikidata.org"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Juan \"Chuy\" Hinojosa",
-    "gender": "male",
-    "birth_date": "1946-03-07",
-    "identifiers": [
-      {
-        "identifier": "Q6299989",
-        "scheme": "wikidata"
-      }
-    ],
-    "other_names": [
-      {
-        "name": "Juan Hinojosa",
-        "source": "wikidata.org"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Judith Zaffirini",
-    "gender": "female",
-    "birth_date": "1946-02-13",
-    "identifiers": [
-      {
-        "identifier": "Q13562493",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Kel Seliger",
-    "gender": "male",
-    "birth_date": "1953-06-16",
-    "identifiers": [
-      {
-        "identifier": "Q6385421",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Kelly Hancock",
-    "gender": "male",
-    "birth_date": "1963-12-02",
-    "identifiers": [
-      {
-        "identifier": "Q16195101",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Larry Taylor",
-    "gender": "male",
-    "birth_date": "1960-06-25",
-    "identifiers": [
-      {
-        "identifier": "Q6491197",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Lois Kolkhorst",
-    "gender": "female",
-    "birth_date": "1964-11-04",
-    "identifiers": [
-      {
-        "identifier": "Q16195634",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Nathan Johnson",
-    "gender": "male",
-    "birth_date": "1968-02-12",
-    "identifiers": [
-      {
-        "identifier": "Q58756295",
-        "scheme": "wikidata"
-      }
-    ],
-    "other_names": [
-      {
-        "name": "Nathan M. Johnson",
-        "source": "wikidata.org"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Paul Bettencourt",
-    "gender": "male",
-    "birth_date": "1958-10-20",
-    "identifiers": [
-      {
-        "identifier": "Q18630746",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Robert Nichols",
-    "gender": "male",
-    "birth_date": "1944-11-25",
-    "identifiers": [
-      {
-        "identifier": "Q7348034",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Roland Gutierrez",
-    "gender": "male",
-    "birth_date": "1970-09-01",
-    "identifiers": [
-      {
-        "identifier": "Q16729525",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Royce West",
-    "gender": "male",
-    "birth_date": "1952-09-26",
-    "identifiers": [
-      {
-        "identifier": "Q7375186",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Sarah Eckhardt",
-    "gender": "female",
-    "identifiers": [
-      {
-        "identifier": "Q97861447",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
+{
+  "body": {
+    "id": "Q515426",
+    "name": "Texas Senate",
+    "term": {
+      "id": "Q104767030",
+      "name": "87th Texas Legislature",
+      "members": [
+        {
+          "name": "Angela Paxton",
+          "gender": "female",
+          "identifiers": [
+            {
+              "identifier": "Q60639272",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Beverly Powell",
+          "gender": "female",
+          "birth_date": "1951",
+          "identifiers": [
+            {
+              "identifier": "Q60524427",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Bob Hall",
+          "gender": "male",
+          "birth_date": "1942-03-05",
+          "identifiers": [
+            {
+              "identifier": "Q18619029",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Borris Miles",
+          "gender": "male",
+          "birth_date": "1965-10-29",
+          "identifiers": [
+            {
+              "identifier": "Q4946593",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Brandon Creighton",
+          "gender": "male",
+          "birth_date": "1970-08-05",
+          "identifiers": [
+            {
+              "identifier": "Q16208257",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Brian Birdwell",
+          "gender": "male",
+          "birth_date": "1961-11-03",
+          "identifiers": [
+            {
+              "identifier": "Q21042340",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Bryan Hughes",
+          "gender": "male",
+          "birth_date": "1969-07-21",
+          "identifiers": [
+            {
+              "identifier": "Q4980170",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Carol Alvarado",
+          "gender": "female",
+          "birth_date": "1967-10-26",
+          "identifiers": [
+            {
+              "identifier": "Q5044227",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Charles Perry",
+          "gender": "male",
+          "birth_date": "1962-03-09",
+          "identifiers": [
+            {
+              "identifier": "Q5081599",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Charles Schwertner",
+          "gender": "male",
+          "birth_date": "1970-05-29",
+          "identifiers": [
+            {
+              "identifier": "Q16213055",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "César Blanco",
+          "gender": "male",
+          "birth_date": "1976-04-23",
+          "identifiers": [
+            {
+              "identifier": "Q28086314",
+              "scheme": "wikidata"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Cesar Blanco",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Dawn Buckingham",
+          "gender": "female",
+          "birth_date": "1960s",
+          "identifiers": [
+            {
+              "identifier": "Q28370262",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Donna Campbell",
+          "gender": "female",
+          "birth_date": "1954-09-17",
+          "identifiers": [
+            {
+              "identifier": "Q4793462",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Drew Springer",
+          "gender": "male",
+          "birth_date": "1966-10-27",
+          "identifiers": [
+            {
+              "identifier": "Q16196712",
+              "scheme": "wikidata"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Drew Springer, Jr.",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Eddie Lucio, Jr.",
+          "gender": "male",
+          "birth_date": "1946-01-20",
+          "identifiers": [
+            {
+              "identifier": "Q5336251",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Jane Nelson",
+          "gender": "female",
+          "birth_date": "1951-10-05",
+          "identifiers": [
+            {
+              "identifier": "Q6152586",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Joan Huffman",
+          "gender": "female",
+          "birth_date": "1956-08-17",
+          "identifiers": [
+            {
+              "identifier": "Q6205149",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "John Whitmire",
+          "gender": "male",
+          "birth_date": "1949-08-13",
+          "identifiers": [
+            {
+              "identifier": "Q6263891",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "José Menéndez",
+          "gender": "male",
+          "birth_date": "1969-03-11",
+          "identifiers": [
+            {
+              "identifier": "Q6279483",
+              "scheme": "wikidata"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Jose Menendez",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Juan \"Chuy\" Hinojosa",
+          "gender": "male",
+          "birth_date": "1946-03-07",
+          "identifiers": [
+            {
+              "identifier": "Q6299989",
+              "scheme": "wikidata"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Juan Hinojosa",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Judith Zaffirini",
+          "gender": "female",
+          "birth_date": "1946-02-13",
+          "identifiers": [
+            {
+              "identifier": "Q13562493",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Kel Seliger",
+          "gender": "male",
+          "birth_date": "1953-06-16",
+          "identifiers": [
+            {
+              "identifier": "Q6385421",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Kelly Hancock",
+          "gender": "male",
+          "birth_date": "1963-12-02",
+          "identifiers": [
+            {
+              "identifier": "Q16195101",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Larry Taylor",
+          "gender": "male",
+          "birth_date": "1960-06-25",
+          "identifiers": [
+            {
+              "identifier": "Q6491197",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Lois Kolkhorst",
+          "gender": "female",
+          "birth_date": "1964-11-04",
+          "identifiers": [
+            {
+              "identifier": "Q16195634",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Nathan Johnson",
+          "gender": "male",
+          "birth_date": "1968-02-12",
+          "identifiers": [
+            {
+              "identifier": "Q58756295",
+              "scheme": "wikidata"
+            }
+          ],
+          "other_names": [
+            {
+              "name": "Nathan M. Johnson",
+              "source": "wikidata.org"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Paul Bettencourt",
+          "gender": "male",
+          "birth_date": "1958-10-20",
+          "identifiers": [
+            {
+              "identifier": "Q18630746",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Robert Nichols",
+          "gender": "male",
+          "birth_date": "1944-11-25",
+          "identifiers": [
+            {
+              "identifier": "Q7348034",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Roland Gutierrez",
+          "gender": "male",
+          "birth_date": "1970-09-01",
+          "identifiers": [
+            {
+              "identifier": "Q16729525",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Royce West",
+          "gender": "male",
+          "birth_date": "1952-09-26",
+          "identifiers": [
+            {
+              "identifier": "Q7375186",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        },
+        {
+          "name": "Sarah Eckhardt",
+          "gender": "female",
+          "identifiers": [
+            {
+              "identifier": "Q97861447",
+              "scheme": "wikidata"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://senate.texas.gov/members.php"
+            }
+          ]
+        }
+      ]
+    }
   }
-]
+}

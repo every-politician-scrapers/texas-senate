@@ -114,6 +114,16 @@ class Member
   end
 end
 
-data = csv.map { |row| Member.new(row).to_h }
+data = {
+  body: {
+    id:   'Q515426',
+    name: 'Texas Senate',
+    term: {
+      id:      'Q104767030',
+      name:    '87th Texas Legislature',
+      members: csv.map { |row| Member.new(row).to_h },
+    },
+  },
+}
 
 puts JSON.pretty_generate(data)
