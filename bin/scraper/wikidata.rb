@@ -31,7 +31,7 @@ query = <<SPARQL
       ?genderItem rdfs:label ?gender
     }
   }
-  ORDER BY ?name
+  ORDER BY STR(?name)
 SPARQL
 
 agent = 'every-politican-scrapers/texas-senate'
