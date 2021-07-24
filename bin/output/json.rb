@@ -64,6 +64,7 @@ class Member
       gender:      gender,
       birth_date:  birth_date,
       identifiers: [{ identifier: id, scheme: 'wikidata' }],
+      other_names: other_names,
       sources:     [{ url: source }],
     }.compact
   end
@@ -96,6 +97,16 @@ class Member
 
   def id
     row[:item]
+  end
+
+  def other_names
+    return if name == label
+
+    [{ name: label, source: 'wikidata.org' }]
+  end
+
+  def label
+    row[:enlabel]
   end
 
   def source

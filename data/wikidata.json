@@ -1,85 +1,5 @@
 [
   {
-    "name": "César Blanco",
-    "gender": "male",
-    "birth_date": "1976-04-23",
-    "identifiers": [
-      {
-        "identifier": "Q28086314",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Drew Springer",
-    "gender": "male",
-    "birth_date": "1966-10-27",
-    "identifiers": [
-      {
-        "identifier": "Q16196712",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "José Menéndez",
-    "gender": "male",
-    "birth_date": "1969-03-11",
-    "identifiers": [
-      {
-        "identifier": "Q6279483",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Juan \"Chuy\" Hinojosa",
-    "gender": "male",
-    "birth_date": "1946-03-07",
-    "identifiers": [
-      {
-        "identifier": "Q6299989",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
-    "name": "Nathan Johnson",
-    "gender": "male",
-    "birth_date": "1968-02-12",
-    "identifiers": [
-      {
-        "identifier": "Q58756295",
-        "scheme": "wikidata"
-      }
-    ],
-    "sources": [
-      {
-        "url": "https://senate.texas.gov/members.php"
-      }
-    ]
-  },
-  {
     "name": "Angela Paxton",
     "gender": "female",
     "identifiers": [
@@ -239,6 +159,28 @@
     ]
   },
   {
+    "name": "César Blanco",
+    "gender": "male",
+    "birth_date": "1976-04-23",
+    "identifiers": [
+      {
+        "identifier": "Q28086314",
+        "scheme": "wikidata"
+      }
+    ],
+    "other_names": [
+      {
+        "name": "Cesar Blanco",
+        "source": "wikidata.org"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://senate.texas.gov/members.php"
+      }
+    ]
+  },
+  {
     "name": "Dawn Buckingham",
     "gender": "female",
     "birth_date": "1960s",
@@ -262,6 +204,28 @@
       {
         "identifier": "Q4793462",
         "scheme": "wikidata"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://senate.texas.gov/members.php"
+      }
+    ]
+  },
+  {
+    "name": "Drew Springer",
+    "gender": "male",
+    "birth_date": "1966-10-27",
+    "identifiers": [
+      {
+        "identifier": "Q16196712",
+        "scheme": "wikidata"
+      }
+    ],
+    "other_names": [
+      {
+        "name": "Drew Springer, Jr.",
+        "source": "wikidata.org"
       }
     ],
     "sources": [
@@ -326,6 +290,50 @@
       {
         "identifier": "Q6263891",
         "scheme": "wikidata"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://senate.texas.gov/members.php"
+      }
+    ]
+  },
+  {
+    "name": "José Menéndez",
+    "gender": "male",
+    "birth_date": "1969-03-11",
+    "identifiers": [
+      {
+        "identifier": "Q6279483",
+        "scheme": "wikidata"
+      }
+    ],
+    "other_names": [
+      {
+        "name": "Jose Menendez",
+        "source": "wikidata.org"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://senate.texas.gov/members.php"
+      }
+    ]
+  },
+  {
+    "name": "Juan \"Chuy\" Hinojosa",
+    "gender": "male",
+    "birth_date": "1946-03-07",
+    "identifiers": [
+      {
+        "identifier": "Q6299989",
+        "scheme": "wikidata"
+      }
+    ],
+    "other_names": [
+      {
+        "name": "Juan Hinojosa",
+        "source": "wikidata.org"
       }
     ],
     "sources": [
@@ -406,6 +414,28 @@
       {
         "identifier": "Q16195634",
         "scheme": "wikidata"
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://senate.texas.gov/members.php"
+      }
+    ]
+  },
+  {
+    "name": "Nathan Johnson",
+    "gender": "male",
+    "birth_date": "1968-02-12",
+    "identifiers": [
+      {
+        "identifier": "Q58756295",
+        "scheme": "wikidata"
+      }
+    ],
+    "other_names": [
+      {
+        "name": "Nathan M. Johnson",
+        "source": "wikidata.org"
       }
     ],
     "sources": [
