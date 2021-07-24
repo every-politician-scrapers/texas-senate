@@ -63,7 +63,7 @@ class Member
       name:        name,
       gender:      gender,
       birth_date:  birth_date,
-      identifiers: [{ identifier: id, scheme: 'wikidata' }],
+      identifiers: [{ identifier: id, scheme: 'wikidata.org' }],
       other_names: other_names,
       sources:     [{ url: source }],
     }.compact
