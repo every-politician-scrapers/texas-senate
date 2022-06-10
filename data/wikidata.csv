@@ -1,5 +1,5 @@
 item,name,enLabel,gender,dob,dobPrecision,source,psid
-Q60639272,Angela Paxton,Angela Paxton,female,,,https://senate.texas.gov/members.php,Q60639272-4CB861DC-A6CF-4019-A00F-D67A0DA4E8BF
+Q60639272,Angela Paxton,Angela Paxton,female,1960-01-01T00:00:00Z,8,https://senate.texas.gov/members.php,Q60639272-4CB861DC-A6CF-4019-A00F-D67A0DA4E8BF
 Q60524427,Beverly Powell,Beverly Powell,female,1951-01-01T00:00:00Z,9,https://senate.texas.gov/members.php,Q60524427-166E4512-9004-4617-8032-7AFB7A142EA9
 Q18619029,Bob Hall,Bob Hall,male,1942-03-05T00:00:00Z,11,https://senate.texas.gov/members.php,Q18619029-09F91853-66B1-42AB-8E2D-3DEA8650C360
 Q4946593,Borris Miles,Borris Miles,male,1965-10-29T00:00:00Z,11,https://senate.texas.gov/members.php,Q4946593-839F9AF7-094A-4541-BCB3-38BDEAEE0139
@@ -9,7 +9,7 @@ Q4980170,Bryan Hughes,Bryan Hughes,male,1969-07-21T00:00:00Z,11,https://senate.t
 Q5044227,Carol Alvarado,Carol Alvarado,female,1967-10-26T00:00:00Z,11,https://senate.texas.gov/members.php,Q5044227-EA35324D-BDBB-4695-9465-CE53F451DEF3
 Q5081599,Charles Perry,Charles Perry,male,1962-03-09T00:00:00Z,11,https://senate.texas.gov/members.php,Q5081599-0D870AF9-2ED6-4F6E-A5D3-7651FB27DFA8
 Q16213055,Charles Schwertner,Charles Schwertner,male,1970-05-29T00:00:00Z,11,https://senate.texas.gov/members.php,Q16213055-4ABD9078-191E-4472-96AD-203E3EC574D5
-Q28086314,César Blanco,Cesar Blanco,male,1976-04-23T00:00:00Z,11,https://senate.texas.gov/members.php,Q28086314-958BA855-1218-4ECE-AE7E-E9CBC5D06ED0
+Q28086314,César Blanco,César Blanco,male,1976-04-23T00:00:00Z,11,https://senate.texas.gov/members.php,Q28086314-958BA855-1218-4ECE-AE7E-E9CBC5D06ED0
 Q28370262,Dawn Buckingham,Dawn Buckingham,female,1965-01-01T00:00:00Z,8,https://senate.texas.gov/members.php,Q28370262-C34C93F8-8243-4D63-8DDD-3AA2598AF033
 Q4793462,Donna Campbell,Donna Campbell,female,1954-09-17T00:00:00Z,11,https://senate.texas.gov/members.php,Q4793462-0FE87596-07D5-4776-A4B4-E67273199E9B
 Q16196712,Drew Springer,"Drew Springer, Jr.",male,1966-10-27T00:00:00Z,11,https://senate.texas.gov/members.php,Q16196712-3FEF33E9-A49A-401D-AE8E-DFEB439DA95D
@@ -29,4 +29,4 @@ Q18630746,Paul Bettencourt,Paul Bettencourt,male,1958-10-20T00:00:00Z,11,https:/
 Q7348034,Robert Nichols,Robert Nichols,male,1944-11-25T00:00:00Z,11,https://senate.texas.gov/members.php,Q7348034-4FAD95C7-0B60-423C-9DD3-25E6D8C06BC8
 Q16729525,Roland Gutierrez,Roland Gutierrez,male,1970-09-01T00:00:00Z,11,https://senate.texas.gov/members.php,Q16729525-2F365F92-7257-4746-B126-64233C6DC5E6
 Q7375186,Royce West,Royce West,male,1952-09-26T00:00:00Z,11,https://senate.texas.gov/members.php,Q7375186-CBC60326-F98C-4EB0-BB08-95F02B6BA7F7
-Q97861447,Sarah Eckhardt,Sarah Eckhardt,female,,,https://senate.texas.gov/members.php,Q97861447-C645206B-1B13-4288-917B-28C5A4D4C058
+Q97861447,Sarah Eckhardt,Sarah Eckhardt,female,1968-01-01T00:00:00Z,9,https://senate.texas.gov/members.php,Q97861447-C645206B-1B13-4288-917B-28C5A4D4C058
